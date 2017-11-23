@@ -25,6 +25,10 @@
     {
       "type": "composer",
       "url": "https://repo.magento.com/"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/robofirm/php_cms_kit"
     }
   ],
   "require": {
